@@ -1,0 +1,23 @@
+.hoverMe:hover{
+    box-shadow:10px 10px 10px 10px #F24C4C;
+    transition: box-shadow 2000ms ease-out;
+}
+
+div {
+
+    display:flex;
+    justify-content: center;
+    align-content: center;
+
+
+}
+
+.showValue {
+    text-align: center;
+}
+html{
+    height: 100%;
+}
+body {
+    height: 100%;
+}
